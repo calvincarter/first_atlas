@@ -1,1 +1,2 @@
-web: node seeders/seed.js
+# Procfile
+web: npm run seed
